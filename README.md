@@ -108,10 +108,3 @@ python main.py
 - `generate_prime(bits)` — cryptographically random prime via `secrets`
 - `modinv(a, m)` — modular inverse via extended Euclidean algorithm
 
----
-
-## References
-
-- Boneh, DeMillo, Lipton — *"On the Importance of Checking Computations"* (1997)
-- RSA PKCS#1 v2.2 specification
-- NIST SP 800-131A — key size recommendations
